@@ -51,9 +51,10 @@ nav ul li{
 
 aside{
   float: left;
-  width: 20%;
+  width: calc(20% - 20px);
   background: orange;
   min-height: 500px;
+  padding: 10px;
 }
 
 footer{
