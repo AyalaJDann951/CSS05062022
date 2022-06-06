@@ -24,3 +24,18 @@ header{
   color: white;
   border-bottom: 3px dashed black;
 }
+
+nav{
+  background: lightblue;
+  height: 50px;
+}
+
+nav ul li{
+  float: left;
+  list-style: none;
+  margin: 10px;
+}
+
+.clearfix{
+  clear: both;
+}
