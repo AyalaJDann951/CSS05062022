@@ -50,6 +50,12 @@ nav ul li{
   padding: 40px;
 }
 
+.article{
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 aside{
   float: left;
   width: calc(20% - 20px);
