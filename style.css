@@ -19,4 +19,8 @@ header{
   height: 100px;
   width: 100%;
   margin: 0px;
+  text-align: center;
+  line_height: 100px;
+  color: white;
+  border-bottom: 3px dashed black;
 }
