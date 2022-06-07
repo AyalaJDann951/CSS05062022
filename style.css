@@ -27,7 +27,6 @@ header{
 
 nav{
   background: lightblue;
-  color: purple;
   height: 50px;
   border-bottom: 1px solid black;
 }
@@ -62,6 +61,10 @@ nav ul li{
 .article:first-child{
   border-top: 1px solid #eee;
   padding-top: 10px;
+}
+
+.lst{
+  color: purple;
 }
 
 .article h2{
