@@ -67,10 +67,6 @@ nav ul li{
   font-size: 25px;
 }
 
-.lst{
-  color: purple;
-}
-
 aside{
   float: left;
   width: calc(20% - 20px);
