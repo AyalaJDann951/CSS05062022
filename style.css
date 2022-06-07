@@ -63,12 +63,12 @@ nav ul li{
   padding-top: 10px;
 }
 
-.lst{
-  color: purple;
-}
-
 .article h2{
   font-size: 25px;
+}
+
+.lst{
+  color: purple;
 }
 
 aside{
